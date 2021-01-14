@@ -14,7 +14,8 @@ agreed/vbn upon/rb ./.
 It is separated from the Part-Of-Speech, which is marked with each word / character.
 
 Your program should do the following:
-1. Creation of First-Order-HMM for POS-Tagging:
+
+Creation of First-Order-HMM for POS-Tagging:
 
 - Your program will create the First-Order-HMM by reading all the files (80) in the Train directory. This means that all probability data required for the HMM will be collected from the Train set. In addition to the information required for HMM, you may need to collect other information (word frequencies, total word count,..).
 
